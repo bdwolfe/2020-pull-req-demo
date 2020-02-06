@@ -1,1 +1,3 @@
 First line of file_b.txt
+
+Another line in file_a.txt (with a typo)
