@@ -5,3 +5,5 @@ Another line in file_b.txt
 Yet another line in file_b.txt
 
 A fourth line in file_b.txt
+
+It's 2021! Time for another line in the file!
